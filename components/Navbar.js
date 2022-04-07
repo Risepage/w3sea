@@ -29,10 +29,10 @@ export default function Navbar() {
           <a className="text-purple-700">Mint</a>
         </Link>
         <Link href="/my-gallery">
-          <a className="text-purple-700">My Gallery</a>
+          <a className="text-purple-700">Gallery</a>
         </Link>
         <Link href="/minted-tokens">
-          <a className="text-purple-700">Minted Tokens</a>
+          <a className="text-purple-700">Backpack</a>
         </Link>
       </div>
       <button
